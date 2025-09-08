@@ -1,1 +1,1 @@
-# Deneme-Boş-Repo
+# Ben bunu github ı anlamak için yazıyorum
