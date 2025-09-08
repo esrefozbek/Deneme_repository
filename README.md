@@ -1,1 +1,1 @@
-# Deneme-Bo-Repo
+# Deneme-Boş-Repo
